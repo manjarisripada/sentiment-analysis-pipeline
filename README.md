@@ -26,7 +26,7 @@ This project uses several natural language processing (NLP) and machine learning
 ## Installation
 1. Clone this repository:
     ```bash
-    git clone https://github.com/yourusername/sentiment-analysis-pipeline.git
+    git clone https://github.com/manjarisripada/sentiment-analysis-pipeline.git
     cd sentiment-analysis-pipeline
     ```
 2. Install dependencies:
